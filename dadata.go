@@ -11,7 +11,7 @@ import (
 	"net/http"
 )
 
-const constBaseURL = "https://dadata.ru/api/v2/"
+const constBaseURL = "https://suggestions.dadata.ru/suggestions/api/4_1/rs/"
 
 var baseURL = constBaseURL
 
